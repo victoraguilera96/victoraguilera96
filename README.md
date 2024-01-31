@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá 👋
 
-<!--
-**victoraguilera96/victoraguilera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Victor G. V. F. Aguilera. Sou formado em Geofísica pela [Universidade Federal do Pampa (UNIPAMPA)](https://cursos.unipampa.edu.br/cursos/geofisica/). Atualmente curso Tecnólogo Superior em Redes de Computadores na [Universidade Federal de Santa Maria (UFSM)](https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-redes-de-computadores).
 
-Here are some ideas to get you started:
+Nasci e cresci em São Sepé, Rio Grande do Sul, Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes Sociais
+
+* [Instagram](https://www.instagram.com/_vtr.vini/)
+
+* [Twitter](https://twitter.com/vtr_01_)
+
+* [Linkedin](https://www.linkedin.com/in/victor-gustavo-vinicius-finger-aguilera-baa9b895/)
+
+* [Lattes](http://lattes.cnpq.br/4356336612332166)
+
+* Email: [victor_vinicius_aguilera@hotmail.com](victor_vinicius_aguilera@hotmail.com)
