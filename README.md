@@ -4,7 +4,16 @@ Meu nome é Victor G. V. F. Aguilera. Sou formado em Geofísica pela [Universida
 
 Nasci e cresci em São Sepé, Rio Grande do Sul, Brasil.
 
-## Redes Sociais
+## Hobbies 🕹️
+
+Gosto de:
+
+* Jogar jogos 🎮;
+* Tocar Guitarra e Violão 🎸;
+* Assistir filmes, anime 🎬.
+
+
+## Redes Sociais 📲
 
 * [Instagram](https://www.instagram.com/_vtr.vini/)
 
@@ -15,3 +24,11 @@ Nasci e cresci em São Sepé, Rio Grande do Sul, Brasil.
 * [Lattes](http://lattes.cnpq.br/4356336612332166)
 
 * Email: [victor_vinicius_aguilera@hotmail.com](victor_vinicius_aguilera@hotmail.com)
+
+# Competências
+
+Status | Linguagem de Programação 
+-------|-------------------------
+3 ⭐ | C
+2 ⭐ | Python  
+2 ⭐ | HTML
