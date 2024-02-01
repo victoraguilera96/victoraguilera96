@@ -10,7 +10,7 @@ Gosto de:
 
 * Jogar videogame 🎮;
 * Tocar Guitarra e Violão 🎸;
-* Assistir filmes, animes 🎬.
+* Assistir filmes e animes 🎬.
 
 
 ## Redes Sociais 📲
