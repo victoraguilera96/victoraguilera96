@@ -8,7 +8,7 @@ Nasci e cresci em São Sepé, Rio Grande do Sul, Brasil.
 
 Gosto de:
 
-* Jogar jogos 🎮;
+* Jogar videogame 🎮;
 * Tocar Guitarra e Violão 🎸;
 * Assistir filmes, animes 🎬.
 
