@@ -32,3 +32,4 @@ Gosto de:
 3 ⭐ | C
 2 ⭐ | Python  
 2 ⭐ | HTML
+⭐ | JavaScript
